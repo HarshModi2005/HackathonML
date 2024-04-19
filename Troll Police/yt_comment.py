@@ -14,7 +14,7 @@ def clean_comment(comment):
 
 
 # Set your API key or OAuth 2.0 credentials
-API_KEY = "AIzaSyBItWlOlaAB-bHGaBdg2Dh5XBa5uAt9WfE"  # Replace with your API key
+API_KEY = "YOUR_API_KEY"  # Replace with your API key
 
 # Create a YouTube API client
 
