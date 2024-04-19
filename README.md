@@ -19,7 +19,7 @@
 # PhishingLinkGuard
  This determined the probability of a link being a phishing link just on the basis of the url. This can be embedded in the web system to block malicious websites.
 # For more details
-Refer to the following ppt we made for our project 
+Refer to the following [ppt](https://docs.google.com/presentation/d/1tbphcocAcrDn14xjGYhzZrZYGPAx7-4mApWFbT1oiQk/edit?usp=sharing) we made for our project 
 # Demo
 clone the repo in your desired directory
 
